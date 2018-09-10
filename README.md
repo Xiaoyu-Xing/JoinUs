@@ -1,2 +1,6 @@
 # JoinUs
-Udemy SQL bootcamp project of collection user emails with a simple web application and SQL
+Udemy SQL bootcamp project of collecting user emails with a simple web application by Node and SQL
+Below is the web screenshot after finished.
+[[https://github.com/Xiaoyu-Xing/JoinUs/blob/master/TheProduct.PNG|alt=octocat]]
+
+This is a pretty good SQL course. Start from easy then go deeper, with a simple but rewarding project on the end. 
